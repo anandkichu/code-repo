@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hi Friends <code>src/App.js</code> and save to reload.
+          Hi Friend <code>src/App.js</code> and save to reload.
         </p>
           Learn React
        
